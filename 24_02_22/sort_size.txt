@@ -1,0 +1,10 @@
+464601088 /home/mahima/backup/bk1.tar.gz
+90862320 /home/mahima/Downloads/google-chrome-stable_current_amd64.deb
+20812195 /home/mahima/.config/google-chrome/Safe Browsing/UrlSoceng.store
+14475264 /home/mahima/.mozilla/firefox/l3zrjrtz.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite
+14091416 /home/mahima/.config/google-chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe
+10501676 /home/mahima/.cache/mozilla/firefox/l3zrjrtz.default-release/safebrowsing/google4/goog-phish-proto.vlpset
+8045706 /home/mahima/.config/google-chrome/OnDeviceHeadSuggestModel/20220131.426260457/cr_en-gb_2022-01-31_426260457_500000_index.bin
+7710606 /home/mahima/.cache/mozilla/firefox/l3zrjrtz.default-release/startupCache/scriptCache-current.bin
+7070711 /home/mahima/.config/google-chrome/Default/Service Worker/CacheStorage/8cbb992fe0cd9ef960e69a214646bd270516a23e/25b22796-37c7-4668-aa04-1bbe310591f0/d43131ce4c139978_1
+7039319 /home/mahima/.cache/mozilla/firefox/l3zrjrtz.default-release/startupCache/scriptCache.bin

@@ -1,0 +1,2 @@
+Hello this is file for error that is hardware error logs
+Thus it's checking hardware error logs.
